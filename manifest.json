@@ -1,0 +1,13 @@
+{
+  "name": "AlertUser",
+  "version": "0.1",
+  "description": "Alert the user.",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {},
+  "icons": { 
+    "128": "icons/128.png" 
+  }
+}
