@@ -1,5 +1,5 @@
 let loadedSounds = new Map()
-let enabled = false
+let enabled = true
 
 function playAudio(soundName) {
   let sound = loadedSounds.get(soundName)
